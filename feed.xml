@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Super Skypper</title>
-    <link href="https://SuperSkypper.github.io/superskypper/feed.xml" rel="self" />
-    <link href="https://SuperSkypper.github.io/superskypper" />
+    <link href="https://superskypper.com/feed.xml" rel="self" />
+    <link href="https://superskypper.com" />
     <updated>2025-01-23T17:02:35-03:00</updated>
     <author>
         <name>Skypper</name>
     </author>
-    <id>https://SuperSkypper.github.io/superskypper</id>
+    <id>https://superskypper.com</id>
 
     <entry>
         <title>Super Skypper (Games English)</title>
         <author>
             <name>Skypper</name>
         </author>
-        <link href="https://SuperSkypper.github.io/superskypper/super-skypper-games-english/"/>
-        <id>https://SuperSkypper.github.io/superskypper/super-skypper-games-english/</id>
-        <media:content url="https://SuperSkypper.github.io/superskypper/media/posts/8/Logo-6.0-Super-Skypper.jpg" medium="image" />
+        <link href="https://superskypper.com/super-skypper-games-english/"/>
+        <id>https://superskypper.com/super-skypper-games-english/</id>
+        <media:content url="https://superskypper.com/media/posts/8/Logo-6.0-Super-Skypper.jpg" medium="image" />
             <category term="YouTube"/>
 
         <updated>2025-01-23T10:00:00-03:00</updated>
@@ -28,9 +28,9 @@
         <author>
             <name>Skypper</name>
         </author>
-        <link href="https://SuperSkypper.github.io/superskypper/universo-skypper/"/>
-        <id>https://SuperSkypper.github.io/superskypper/universo-skypper/</id>
-        <media:content url="https://SuperSkypper.github.io/superskypper/media/posts/4/Logo-6.0-Universo-Skypper.jpg" medium="image" />
+        <link href="https://superskypper.com/universo-skypper/"/>
+        <id>https://superskypper.com/universo-skypper/</id>
+        <media:content url="https://superskypper.com/media/posts/4/Logo-6.0-Universo-Skypper.jpg" medium="image" />
             <category term="YouTube"/>
 
         <updated>2025-01-23T09:00:00-03:00</updated>
@@ -42,9 +42,9 @@
         <author>
             <name>Skypper</name>
         </author>
-        <link href="https://SuperSkypper.github.io/superskypper/mundo-skypper/"/>
-        <id>https://SuperSkypper.github.io/superskypper/mundo-skypper/</id>
-        <media:content url="https://SuperSkypper.github.io/superskypper/media/posts/5/Logo-6.0-Mundo-Skypper.jpg" medium="image" />
+        <link href="https://superskypper.com/mundo-skypper/"/>
+        <id>https://superskypper.com/mundo-skypper/</id>
+        <media:content url="https://superskypper.com/media/posts/5/Logo-6.0-Mundo-Skypper.jpg" medium="image" />
             <category term="YouTube"/>
 
         <updated>2025-01-23T08:00:00-03:00</updated>
@@ -56,9 +56,9 @@
         <author>
             <name>Skypper</name>
         </author>
-        <link href="https://SuperSkypper.github.io/superskypper/terra-do-skypper/"/>
-        <id>https://SuperSkypper.github.io/superskypper/terra-do-skypper/</id>
-        <media:content url="https://SuperSkypper.github.io/superskypper/media/posts/6/Logo-6.0-Terra-do-Skypper.jpg" medium="image" />
+        <link href="https://superskypper.com/terra-do-skypper/"/>
+        <id>https://superskypper.com/terra-do-skypper/</id>
+        <media:content url="https://superskypper.com/media/posts/6/Logo-6.0-Terra-do-Skypper.jpg" medium="image" />
             <category term="YouTube"/>
 
         <updated>2025-01-23T07:00:00-03:00</updated>

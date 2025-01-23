@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://SuperSkypper.github.io/superskypper/sitemap.xml
+Sitemap: https://superskypper.com/sitemap.xml

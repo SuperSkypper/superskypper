@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Super Skypper",
     "description": "",
-    "home_page_url": "https://SuperSkypper.github.io/superskypper",
-    "feed_url": "https://SuperSkypper.github.io/superskypper/feed.json",
+    "home_page_url": "https://superskypper.com",
+    "feed_url": "https://superskypper.com/feed.json",
     "user_comment": "",
-    "icon": "https://SuperSkypper.github.io/superskypper/media/website/Logo-Site-4.0.png",
+    "icon": "https://superskypper.com/media/website/Logo-Site-4.0.png",
     "author": {
         "name": "Skypper"
     },
     "items": [
         {
-            "id": "https://SuperSkypper.github.io/superskypper/super-skypper-games-english/",
-            "url": "https://SuperSkypper.github.io/superskypper/super-skypper-games-english/",
+            "id": "https://superskypper.com/super-skypper-games-english/",
+            "url": "https://superskypper.com/super-skypper-games-english/",
             "title": "Super Skypper (Games English)",
-            "image": "https://SuperSkypper.github.io/superskypper/media/posts/8/Logo-6.0-Super-Skypper.jpg",
+            "image": "https://superskypper.com/media/posts/8/Logo-6.0-Super-Skypper.jpg",
             "author": {
                 "name": "Skypper"
             },
@@ -25,10 +25,10 @@
             "date_modified": "2025-01-23T17:02:16-03:00"
         },
         {
-            "id": "https://SuperSkypper.github.io/superskypper/universo-skypper/",
-            "url": "https://SuperSkypper.github.io/superskypper/universo-skypper/",
+            "id": "https://superskypper.com/universo-skypper/",
+            "url": "https://superskypper.com/universo-skypper/",
             "title": "Universo Skypper (Games)",
-            "image": "https://SuperSkypper.github.io/superskypper/media/posts/4/Logo-6.0-Universo-Skypper.jpg",
+            "image": "https://superskypper.com/media/posts/4/Logo-6.0-Universo-Skypper.jpg",
             "author": {
                 "name": "Skypper"
             },
@@ -39,10 +39,10 @@
             "date_modified": "2025-01-23T17:01:06-03:00"
         },
         {
-            "id": "https://SuperSkypper.github.io/superskypper/mundo-skypper/",
-            "url": "https://SuperSkypper.github.io/superskypper/mundo-skypper/",
+            "id": "https://superskypper.com/mundo-skypper/",
+            "url": "https://superskypper.com/mundo-skypper/",
             "title": "Mundo Skypper (Movies/TV)",
-            "image": "https://SuperSkypper.github.io/superskypper/media/posts/5/Logo-6.0-Mundo-Skypper.jpg",
+            "image": "https://superskypper.com/media/posts/5/Logo-6.0-Mundo-Skypper.jpg",
             "author": {
                 "name": "Skypper"
             },
@@ -53,10 +53,10 @@
             "date_modified": "2025-01-23T17:01:13-03:00"
         },
         {
-            "id": "https://SuperSkypper.github.io/superskypper/terra-do-skypper/",
-            "url": "https://SuperSkypper.github.io/superskypper/terra-do-skypper/",
+            "id": "https://superskypper.com/terra-do-skypper/",
+            "url": "https://superskypper.com/terra-do-skypper/",
             "title": "Terra do Skypper (Tech/VR)",
-            "image": "https://SuperSkypper.github.io/superskypper/media/posts/6/Logo-6.0-Terra-do-Skypper.jpg",
+            "image": "https://superskypper.com/media/posts/6/Logo-6.0-Terra-do-Skypper.jpg",
             "author": {
                 "name": "Skypper"
             },
