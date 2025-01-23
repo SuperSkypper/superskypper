@@ -3,7 +3,7 @@
     <title>Super Skypper</title>
     <link href="https://SuperSkypper.github.io/superskypper/feed.xml" rel="self" />
     <link href="https://SuperSkypper.github.io/superskypper" />
-    <updated>2025-01-23T17:02:45-03:00</updated>
+    <updated>2025-01-23T17:02:35-03:00</updated>
     <author>
         <name>Skypper</name>
     </author>
@@ -62,20 +62,6 @@
             <category term="YouTube"/>
 
         <updated>2025-01-23T07:00:00-03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Live do Skypper (Twitch)</title>
-        <author>
-            <name>Skypper</name>
-        </author>
-        <link href="https://SuperSkypper.github.io/superskypper/live-do-skypper-twitch/"/>
-        <id>https://SuperSkypper.github.io/superskypper/live-do-skypper-twitch/</id>
-        <media:content url="https://SuperSkypper.github.io/superskypper/media/posts/7/Logo-6.0-Live-do-Skypper.jpg" medium="image" />
-            <category term="Twitch"/>
-
-        <updated>2025-01-23T06:00:00-03:00</updated>
             <summary></summary>
         <content></content>
     </entry>
