@@ -1,0 +1,70 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Super Skypper",
+    "description": "",
+    "home_page_url": "https://SuperSkypper.github.io/superskypper",
+    "feed_url": "https://SuperSkypper.github.io/superskypper/feed.json",
+    "user_comment": "",
+    "icon": "https://SuperSkypper.github.io/superskypper/media/website/Logo-Site-4.0.png",
+    "author": {
+        "name": "Skypper"
+    },
+    "items": [
+        {
+            "id": "https://SuperSkypper.github.io/superskypper/universo-skypper/",
+            "url": "https://SuperSkypper.github.io/superskypper/universo-skypper/",
+            "title": "Universo Skypper (Games)",
+            "image": "https://SuperSkypper.github.io/superskypper/media/posts/4/Logo-6.0-Universo-Skypper.jpg",
+            "author": {
+                "name": "Skypper"
+            },
+            "tags": [
+                   "YouTube"
+            ],
+            "date_published": "2025-01-23T12:04:00-03:00",
+            "date_modified": "2025-01-23T14:21:20-03:00"
+        },
+        {
+            "id": "https://SuperSkypper.github.io/superskypper/mundo-skypper/",
+            "url": "https://SuperSkypper.github.io/superskypper/mundo-skypper/",
+            "title": "Mundo Skypper (Movies/TV)",
+            "image": "https://SuperSkypper.github.io/superskypper/media/posts/5/Logo-6.0-Mundo-Skypper.jpg",
+            "author": {
+                "name": "Skypper"
+            },
+            "tags": [
+                   "YouTube"
+            ],
+            "date_published": "2025-01-23T12:03:00-03:00",
+            "date_modified": "2025-01-23T14:19:47-03:00"
+        },
+        {
+            "id": "https://SuperSkypper.github.io/superskypper/terra-do-skypper/",
+            "url": "https://SuperSkypper.github.io/superskypper/terra-do-skypper/",
+            "title": "Terra do Skypper (Tech/VR)",
+            "image": "https://SuperSkypper.github.io/superskypper/media/posts/6/Logo-6.0-Terra-do-Skypper.jpg",
+            "author": {
+                "name": "Skypper"
+            },
+            "tags": [
+                   "YouTube"
+            ],
+            "date_published": "2025-01-23T12:02:00-03:00",
+            "date_modified": "2025-01-23T14:19:52-03:00"
+        },
+        {
+            "id": "https://SuperSkypper.github.io/superskypper/live-do-skypper-twitch/",
+            "url": "https://SuperSkypper.github.io/superskypper/live-do-skypper-twitch/",
+            "title": "Live do Skypper (Twitch)",
+            "image": "https://SuperSkypper.github.io/superskypper/media/posts/7/Logo-6.0-Live-do-Skypper.jpg",
+            "author": {
+                "name": "Skypper"
+            },
+            "tags": [
+                   "Twitch"
+            ],
+            "date_published": "2025-01-23T12:01:00-03:00",
+            "date_modified": "2025-01-23T12:53:03-03:00"
+        }
+    ]
+}
