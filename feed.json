@@ -11,32 +11,18 @@
     },
     "items": [
         {
-            "id": "https://SuperSkypper.github.io/superskypper/universo-skypper/",
-            "url": "https://SuperSkypper.github.io/superskypper/universo-skypper/",
-            "title": "Universo Skypper (Games)",
-            "image": "https://SuperSkypper.github.io/superskypper/media/posts/4/Logo-6.0-Universo-Skypper.jpg",
+            "id": "https://SuperSkypper.github.io/superskypper/live-do-skypper-twitch/",
+            "url": "https://SuperSkypper.github.io/superskypper/live-do-skypper-twitch/",
+            "title": "Live do Skypper (Twitch)",
+            "image": "https://SuperSkypper.github.io/superskypper/media/posts/7/Logo-6.0-Live-do-Skypper.jpg",
             "author": {
                 "name": "Skypper"
             },
             "tags": [
-                   "YouTube"
+                   "Twitch"
             ],
-            "date_published": "2025-01-23T12:04:00-03:00",
-            "date_modified": "2025-01-23T14:21:20-03:00"
-        },
-        {
-            "id": "https://SuperSkypper.github.io/superskypper/mundo-skypper/",
-            "url": "https://SuperSkypper.github.io/superskypper/mundo-skypper/",
-            "title": "Mundo Skypper (Movies/TV)",
-            "image": "https://SuperSkypper.github.io/superskypper/media/posts/5/Logo-6.0-Mundo-Skypper.jpg",
-            "author": {
-                "name": "Skypper"
-            },
-            "tags": [
-                   "YouTube"
-            ],
-            "date_published": "2025-01-23T12:03:00-03:00",
-            "date_modified": "2025-01-23T14:19:47-03:00"
+            "date_published": "2025-01-23T05:00:00-03:00",
+            "date_modified": "2025-01-23T16:55:35-03:00"
         },
         {
             "id": "https://SuperSkypper.github.io/superskypper/terra-do-skypper/",
@@ -49,22 +35,49 @@
             "tags": [
                    "YouTube"
             ],
-            "date_published": "2025-01-23T12:02:00-03:00",
-            "date_modified": "2025-01-23T14:19:52-03:00"
+            "date_published": "2025-01-23T04:00:00-03:00",
+            "date_modified": "2025-01-23T16:55:28-03:00"
         },
         {
-            "id": "https://SuperSkypper.github.io/superskypper/live-do-skypper-twitch/",
-            "url": "https://SuperSkypper.github.io/superskypper/live-do-skypper-twitch/",
-            "title": "Live do Skypper (Twitch)",
-            "image": "https://SuperSkypper.github.io/superskypper/media/posts/7/Logo-6.0-Live-do-Skypper.jpg",
+            "id": "https://SuperSkypper.github.io/superskypper/mundo-skypper/",
+            "url": "https://SuperSkypper.github.io/superskypper/mundo-skypper/",
+            "title": "Mundo Skypper (Movies/TV)",
+            "image": "https://SuperSkypper.github.io/superskypper/media/posts/5/Logo-6.0-Mundo-Skypper.jpg",
             "author": {
                 "name": "Skypper"
             },
             "tags": [
-                   "Twitch"
+                   "YouTube"
             ],
-            "date_published": "2025-01-23T12:01:00-03:00",
-            "date_modified": "2025-01-23T12:53:03-03:00"
+            "date_published": "2025-01-23T03:00:00-03:00",
+            "date_modified": "2025-01-23T16:55:20-03:00"
+        },
+        {
+            "id": "https://SuperSkypper.github.io/superskypper/universo-skypper/",
+            "url": "https://SuperSkypper.github.io/superskypper/universo-skypper/",
+            "title": "Universo Skypper (Games)",
+            "image": "https://SuperSkypper.github.io/superskypper/media/posts/4/Logo-6.0-Universo-Skypper.jpg",
+            "author": {
+                "name": "Skypper"
+            },
+            "tags": [
+                   "YouTube"
+            ],
+            "date_published": "2025-01-23T01:00:00-03:00",
+            "date_modified": "2025-01-23T16:55:02-03:00"
+        },
+        {
+            "id": "https://SuperSkypper.github.io/superskypper/super-skypper-games-english/",
+            "url": "https://SuperSkypper.github.io/superskypper/super-skypper-games-english/",
+            "title": "Super Skypper (Games English)",
+            "author": {
+                "name": "Skypper"
+            },
+            "tags": [
+                   "YouTube"
+            ],
+            "date_published": "2025-01-23T00:00:00-03:00",
+            "date_modified": "2025-01-23T16:55:10-03:00"
         }
     ]
 }
