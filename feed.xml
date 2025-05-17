@@ -3,7 +3,7 @@
     <title>Super Skypper</title>
     <link href="https://superskypper.com/feed.xml" rel="self" />
     <link href="https://superskypper.com" />
-    <updated>2025-05-17T17:27:37-03:00</updated>
+    <updated>2025-05-17T17:53:16-03:00</updated>
     <author>
         <name>Skypper</name>
     </author>
@@ -20,22 +20,59 @@
             <category term="YouTube"/>
 
         <updated>2025-01-23T19:00:00-03:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://superskypper.com/media/posts/5/Logo-6.0-Mundo-Skypper.jpg" alt="" />
+                    Você será redirecionado em instantes. Se não for, clique aqui.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://superskypper.com/media/posts/5/Logo-6.0-Mundo-Skypper.jpg" class="type:primaryImage" alt="" /></p>
+                <p>
+<script>
+  window.location.href = "https://youtube.com/@SuperSkypper";
+</script>
+</p>
+<p>Você será redirecionado em instantes. Se não for, <a href="https://youtube.com/@MundoSkypper">clique aqui</a>.<br>You will be redirected shortly. If not, <a href="https://youtube.com/@MundoSkypper">click here</a>.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Super Skypper (English Reviews)</title>
         <author>
             <name>Skypper</name>
         </author>
-        <link href="https://superskypper.com/super-skypper-games-english/"/>
-        <id>https://superskypper.com/super-skypper-games-english/</id>
+        <link href="https://superskypper.com/super-skypper/"/>
+        <id>https://superskypper.com/super-skypper/</id>
         <media:content url="https://superskypper.com/media/posts/8/Logo-6.0-Super-Skypper.jpg" medium="image" />
             <category term="YouTube"/>
 
         <updated>2025-01-23T09:30:00-03:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://superskypper.com/media/posts/8/Logo-6.0-Super-Skypper.jpg" alt="" />
+                    Você será redirecionado em instantes. Se nada acontecer, clique no&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://superskypper.com/media/posts/8/Logo-6.0-Super-Skypper.jpg" class="type:primaryImage" alt="" /></p>
+                <p>
+<script>
+  // Abrir o link externo em nova aba
+  window.open("https://youtube.com/@SuperSkypper", "_blank");
+
+  // Redirecionar a aba atual de volta para a home
+  setTimeout(function() {
+    window.location.href = "/";
+  }, 500); // meio segundo depois
+</script>
+</p>
+<p>Você será redirecionado em instantes. Se nada acontecer, clique no link abaixo.<br>You will be redirected shortly. If nothing happens, click the link below.</p>
+<p>👉 <a href="https://youtube.com/@SuperSkypper" target="_blank" rel="noopener noreferrer">https://youtube.com/@SuperSkypper</a></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Universo Skypper (Gameplays)</title>
@@ -48,8 +85,23 @@
             <category term="YouTube"/>
 
         <updated>2025-01-23T07:30:00-03:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://superskypper.com/media/posts/4/Logo-6.0-Universo-Skypper.jpg" alt="" />
+                    Você será redirecionado em instantes. Se não for, clique aqui.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://superskypper.com/media/posts/4/Logo-6.0-Universo-Skypper.jpg" class="type:primaryImage" alt="" /></p>
+                <p>
+<script>
+  window.location.href = "https://youtube.com/@UniversoSkypper";
+</script>
+</p>
+<p>Você será redirecionado em instantes. Se não for, <a href="https://youtube.com/@UniversoSkypper">clique aqui</a>.<br>You will be redirected shortly. If not, <a href="https://youtube.com/@UniversoSkypper">click here</a>.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Terra do Skypper (Tech/VR)</title>
@@ -62,7 +114,22 @@
             <category term="YouTube"/>
 
         <updated>2025-01-23T07:00:00-03:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://superskypper.com/media/posts/6/Logo-6.0-Terra-do-Skypper.jpg" alt="" />
+                    Você será redirecionado em instantes. Se não for, clique aqui.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://superskypper.com/media/posts/6/Logo-6.0-Terra-do-Skypper.jpg" class="type:primaryImage" alt="" /></p>
+                <p>
+<script>
+  window.location.href = "https://youtube.com/@SuperSkypper";
+</script>
+</p>
+<p>Você será redirecionado em instantes. Se não for, <a href="https://youtube.com/@TerradoSkypper">clique aqui</a>.<br>You will be redirected shortly. If not, <a href="https://youtube.com/@TerradoSkypper">click here</a>.</p>
+            ]]>
+        </content>
     </entry>
 </feed>
