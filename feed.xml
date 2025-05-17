@@ -3,42 +3,14 @@
     <title>Super Skypper</title>
     <link href="https://superskypper.com/feed.xml" rel="self" />
     <link href="https://superskypper.com" />
-    <updated>2025-01-23T17:02:35-03:00</updated>
+    <updated>2025-05-17T17:27:37-03:00</updated>
     <author>
         <name>Skypper</name>
     </author>
     <id>https://superskypper.com</id>
 
     <entry>
-        <title>Super Skypper (Games English)</title>
-        <author>
-            <name>Skypper</name>
-        </author>
-        <link href="https://superskypper.com/super-skypper-games-english/"/>
-        <id>https://superskypper.com/super-skypper-games-english/</id>
-        <media:content url="https://superskypper.com/media/posts/8/Logo-6.0-Super-Skypper.jpg" medium="image" />
-            <category term="YouTube"/>
-
-        <updated>2025-01-23T10:00:00-03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Universo Skypper (Games)</title>
-        <author>
-            <name>Skypper</name>
-        </author>
-        <link href="https://superskypper.com/universo-skypper/"/>
-        <id>https://superskypper.com/universo-skypper/</id>
-        <media:content url="https://superskypper.com/media/posts/4/Logo-6.0-Universo-Skypper.jpg" medium="image" />
-            <category term="YouTube"/>
-
-        <updated>2025-01-23T09:00:00-03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Mundo Skypper (Movies/TV)</title>
+        <title>Mundo Skypper (Reviews &amp; Reacts)</title>
         <author>
             <name>Skypper</name>
         </author>
@@ -47,7 +19,35 @@
         <media:content url="https://superskypper.com/media/posts/5/Logo-6.0-Mundo-Skypper.jpg" medium="image" />
             <category term="YouTube"/>
 
-        <updated>2025-01-23T08:00:00-03:00</updated>
+        <updated>2025-01-23T19:00:00-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Super Skypper (English Reviews)</title>
+        <author>
+            <name>Skypper</name>
+        </author>
+        <link href="https://superskypper.com/super-skypper-games-english/"/>
+        <id>https://superskypper.com/super-skypper-games-english/</id>
+        <media:content url="https://superskypper.com/media/posts/8/Logo-6.0-Super-Skypper.jpg" medium="image" />
+            <category term="YouTube"/>
+
+        <updated>2025-01-23T09:30:00-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Universo Skypper (Gameplays)</title>
+        <author>
+            <name>Skypper</name>
+        </author>
+        <link href="https://superskypper.com/universo-skypper/"/>
+        <id>https://superskypper.com/universo-skypper/</id>
+        <media:content url="https://superskypper.com/media/posts/4/Logo-6.0-Universo-Skypper.jpg" medium="image" />
+            <category term="YouTube"/>
+
+        <updated>2025-01-23T07:30:00-03:00</updated>
             <summary></summary>
         <content></content>
     </entry>

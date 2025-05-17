@@ -11,37 +11,9 @@
     },
     "items": [
         {
-            "id": "https://superskypper.com/super-skypper-games-english/",
-            "url": "https://superskypper.com/super-skypper-games-english/",
-            "title": "Super Skypper (Games English)",
-            "image": "https://superskypper.com/media/posts/8/Logo-6.0-Super-Skypper.jpg",
-            "author": {
-                "name": "Skypper"
-            },
-            "tags": [
-                   "YouTube"
-            ],
-            "date_published": "2025-01-23T10:00:00-03:00",
-            "date_modified": "2025-01-23T17:02:16-03:00"
-        },
-        {
-            "id": "https://superskypper.com/universo-skypper/",
-            "url": "https://superskypper.com/universo-skypper/",
-            "title": "Universo Skypper (Games)",
-            "image": "https://superskypper.com/media/posts/4/Logo-6.0-Universo-Skypper.jpg",
-            "author": {
-                "name": "Skypper"
-            },
-            "tags": [
-                   "YouTube"
-            ],
-            "date_published": "2025-01-23T09:00:00-03:00",
-            "date_modified": "2025-01-23T17:01:06-03:00"
-        },
-        {
             "id": "https://superskypper.com/mundo-skypper/",
             "url": "https://superskypper.com/mundo-skypper/",
-            "title": "Mundo Skypper (Movies/TV)",
+            "title": "Mundo Skypper (Reviews &amp; Reacts)",
             "image": "https://superskypper.com/media/posts/5/Logo-6.0-Mundo-Skypper.jpg",
             "author": {
                 "name": "Skypper"
@@ -49,8 +21,36 @@
             "tags": [
                    "YouTube"
             ],
-            "date_published": "2025-01-23T08:00:00-03:00",
-            "date_modified": "2025-01-23T17:01:13-03:00"
+            "date_published": "2025-01-23T19:00:00-03:00",
+            "date_modified": "2025-05-17T17:27:37-03:00"
+        },
+        {
+            "id": "https://superskypper.com/super-skypper-games-english/",
+            "url": "https://superskypper.com/super-skypper-games-english/",
+            "title": "Super Skypper (English Reviews)",
+            "image": "https://superskypper.com/media/posts/8/Logo-6.0-Super-Skypper.jpg",
+            "author": {
+                "name": "Skypper"
+            },
+            "tags": [
+                   "YouTube"
+            ],
+            "date_published": "2025-01-23T09:30:00-03:00",
+            "date_modified": "2025-05-17T17:27:16-03:00"
+        },
+        {
+            "id": "https://superskypper.com/universo-skypper/",
+            "url": "https://superskypper.com/universo-skypper/",
+            "title": "Universo Skypper (Gameplays)",
+            "image": "https://superskypper.com/media/posts/4/Logo-6.0-Universo-Skypper.jpg",
+            "author": {
+                "name": "Skypper"
+            },
+            "tags": [
+                   "YouTube"
+            ],
+            "date_published": "2025-01-23T07:30:00-03:00",
+            "date_modified": "2025-05-17T17:20:21-03:00"
         },
         {
             "id": "https://superskypper.com/terra-do-skypper/",
