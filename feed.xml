@@ -3,7 +3,7 @@
     <title>Super Skypper</title>
     <link href="https://superskypper.com/feed.xml" rel="self" />
     <link href="https://superskypper.com" />
-    <updated>2025-05-17T17:53:16-03:00</updated>
+    <updated>2025-05-17T17:59:59-03:00</updated>
     <author>
         <name>Skypper</name>
     </author>
@@ -23,7 +23,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://superskypper.com/media/posts/5/Logo-6.0-Mundo-Skypper.jpg" alt="" />
-                    Você será redirecionado em instantes. Se não for, clique aqui.
+                    Você será redirecionado em instantes. Se nada acontecer, clique no&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -31,10 +31,23 @@
                     <p><img src="https://superskypper.com/media/posts/5/Logo-6.0-Mundo-Skypper.jpg" class="type:primaryImage" alt="" /></p>
                 <p>
 <script>
-  window.location.href = "https://youtube.com/@SuperSkypper";
+  // Defina o link para onde quer redirecionar
+  const targetURL = "https://youtube.com/@MundoSkypper";
+
+  // Redireciona na mesma aba sem adicionar ao histórico
+  window.location.replace(targetURL);
 </script>
 </p>
-<p>Você será redirecionado em instantes. Se não for, <a href="https://youtube.com/@MundoSkypper">clique aqui</a>.<br>You will be redirected shortly. If not, <a href="https://youtube.com/@MundoSkypper">click here</a>.</p>
+<p>Você será redirecionado em instantes. Se nada acontecer, clique no link abaixo.<br>You will be redirected shortly. If nothing happens, click the link below.</p>
+<p>👉 <a id="redirectLink" target="_blank" rel="noopener noreferrer"></a></p>
+<p>
+<script>
+  // Atualiza o href e texto do link de fallback
+  const linkElement = document.getElementById("redirectLink");
+  linkElement.href = targetURL;
+  linkElement.textContent = targetURL;
+</script>
+</p>
             ]]>
         </content>
     </entry>
@@ -60,17 +73,23 @@
                     <p><img src="https://superskypper.com/media/posts/8/Logo-6.0-Super-Skypper.jpg" class="type:primaryImage" alt="" /></p>
                 <p>
 <script>
-  // Abrir o link externo em nova aba
-  window.open("https://youtube.com/@SuperSkypper", "_blank");
+  // Defina o link para onde quer redirecionar
+  const targetURL = "https://youtube.com/@SuperSkypper";
 
-  // Redirecionar a aba atual de volta para a home
-  setTimeout(function() {
-    window.location.href = "/";
-  }, 500); // meio segundo depois
+  // Redireciona na mesma aba sem adicionar ao histórico
+  window.location.replace(targetURL);
 </script>
 </p>
 <p>Você será redirecionado em instantes. Se nada acontecer, clique no link abaixo.<br>You will be redirected shortly. If nothing happens, click the link below.</p>
-<p>👉 <a href="https://youtube.com/@SuperSkypper" target="_blank" rel="noopener noreferrer">https://youtube.com/@SuperSkypper</a></p>
+<p>👉 <a id="redirectLink" target="_blank" rel="noopener noreferrer"></a></p>
+<p>
+<script>
+  // Atualiza o href e texto do link de fallback
+  const linkElement = document.getElementById("redirectLink");
+  linkElement.href = targetURL;
+  linkElement.textContent = targetURL;
+</script>
+</p>
             ]]>
         </content>
     </entry>
@@ -117,7 +136,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://superskypper.com/media/posts/6/Logo-6.0-Terra-do-Skypper.jpg" alt="" />
-                    Você será redirecionado em instantes. Se não for, clique aqui.
+                    Você será redirecionado em instantes. Se nada acontecer, clique no&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -125,10 +144,23 @@
                     <p><img src="https://superskypper.com/media/posts/6/Logo-6.0-Terra-do-Skypper.jpg" class="type:primaryImage" alt="" /></p>
                 <p>
 <script>
-  window.location.href = "https://youtube.com/@SuperSkypper";
+  // Defina o link para onde quer redirecionar
+  const targetURL = "https://youtube.com/@TerradoSkypper";
+
+  // Redireciona na mesma aba sem adicionar ao histórico
+  window.location.replace(targetURL);
 </script>
 </p>
-<p>Você será redirecionado em instantes. Se não for, <a href="https://youtube.com/@TerradoSkypper">clique aqui</a>.<br>You will be redirected shortly. If not, <a href="https://youtube.com/@TerradoSkypper">click here</a>.</p>
+<p>Você será redirecionado em instantes. Se nada acontecer, clique no link abaixo.<br>You will be redirected shortly. If nothing happens, click the link below.</p>
+<p>👉 <a id="redirectLink" target="_blank" rel="noopener noreferrer"></a></p>
+<p>
+<script>
+  // Atualiza o href e texto do link de fallback
+  const linkElement = document.getElementById("redirectLink");
+  linkElement.href = targetURL;
+  linkElement.textContent = targetURL;
+</script>
+</p>
             ]]>
         </content>
     </entry>
