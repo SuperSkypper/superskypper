@@ -3,14 +3,14 @@
     <title>Super Skypper</title>
     <link href="https://superskypper.com/feed.xml" rel="self" />
     <link href="https://superskypper.com" />
-    <updated>2025-08-01T12:39:47-03:00</updated>
+    <updated>2025-11-18T17:35:06-03:00</updated>
     <author>
         <name>Skypper</name>
     </author>
     <id>https://superskypper.com</id>
 
     <entry>
-        <title>Super Skypper (English Reviews)</title>
+        <title>Super Skypper (Reviews)</title>
         <author>
             <name>Skypper</name>
         </author>
@@ -52,7 +52,7 @@
         </content>
     </entry>
     <entry>
-        <title>Universo Skypper (Reacts)</title>
+        <title>Universo Skypper (Opiniões)</title>
         <author>
             <name>Skypper</name>
         </author>
@@ -94,7 +94,7 @@
         </content>
     </entry>
     <entry>
-        <title>Terra do Skypper (Games)</title>
+        <title>Terra do Skypper (Gameplays)</title>
         <author>
             <name>Skypper</name>
         </author>
@@ -117,48 +117,6 @@
 <script>
   // Defina o link para onde quer redirecionar
   const targetURL = "https://youtube.com/channel/UCc9OqAJO8_jnavbFL2Jk6tA";
-
-  // Redireciona na mesma aba sem adicionar ao histórico
-  window.location.replace(targetURL);
-</script>
-</p>
-<p>Você será redirecionado em instantes. Se nada acontecer, clique no link abaixo.<br>You will be redirected shortly. If nothing happens, click the link below.</p>
-<p>👉 <a id="redirectLink" target="_blank" rel="noopener noreferrer"></a></p>
-<p>
-<script>
-  // Atualiza o href e texto do link de fallback
-  const linkElement = document.getElementById("redirectLink");
-  linkElement.href = targetURL;
-  linkElement.textContent = targetURL;
-</script>
-</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cortes do Skypper (Clips)</title>
-        <author>
-            <name>Skypper</name>
-        </author>
-        <link href="https://superskypper.com/universo-skypper/"/>
-        <id>https://superskypper.com/universo-skypper/</id>
-        <media:content url="https://superskypper.com/media/posts/4/Logo-6.0-Universo-Skypper.jpg" medium="image" />
-            <category term="YouTube"/>
-
-        <updated>2025-01-23T01:00:00-03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://superskypper.com/media/posts/4/Logo-6.0-Universo-Skypper.jpg" alt="" />
-                    Você será redirecionado em instantes. Se nada acontecer, clique no&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://superskypper.com/media/posts/4/Logo-6.0-Universo-Skypper.jpg" class="type:primaryImage" alt="" /></p>
-                <p>
-<script>
-  // Defina o link para onde quer redirecionar
-  const targetURL = "https://youtube.com/channel/UCIkWYSyVXwWU0LGHEbSI6Ng";
 
   // Redireciona na mesma aba sem adicionar ao histórico
   window.location.replace(targetURL);
