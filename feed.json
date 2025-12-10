@@ -16,7 +16,7 @@
             "title": "Super Skypper (Reviews)",
             "summary": "Você será redirecionado em instantes. Se nada acontecer, clique no&hellip;",
             "content_html": "<p>\n<script>\n  // Defina o link para onde quer redirecionar\n  const targetURL = \"https://youtube.com/@SuperSkypper\";\n\n  // Redireciona na mesma aba sem adicionar ao histórico\n  window.location.replace(targetURL);\n</script>\n</p>\n<p>Você será redirecionado em instantes. Se nada acontecer, clique no link abaixo.<br>You will be redirected shortly. If nothing happens, click the link below.</p>\n<p>👉 <a id=\"redirectLink\" target=\"_blank\" rel=\"noopener noreferrer\"></a></p>\n<p>\n<script>\n  // Atualiza o href e texto do link de fallback\n  const linkElement = document.getElementById(\"redirectLink\");\n  linkElement.href = targetURL;\n  linkElement.textContent = targetURL;\n</script>\n</p>",
-            "image": "https://superskypper.com/media/posts/8/Logo-6.0-Super-Skypper.jpg",
+            "image": "https://superskypper.com/media/posts/8/251205-0857-Logo-Super-Skypper-2.0.jpg",
             "author": {
                 "name": "Skypper"
             },
@@ -24,7 +24,7 @@
                    "YouTube"
             ],
             "date_published": "2025-01-23T04:00:00-03:00",
-            "date_modified": "2025-11-18T17:34:57-03:00"
+            "date_modified": "2025-12-09T22:17:14-03:00"
         },
         {
             "id": "https://superskypper.com/mundo-skypper/",
@@ -32,7 +32,7 @@
             "title": "Universo Skypper (Opiniões)",
             "summary": "Você será redirecionado em instantes. Se nada acontecer, clique no&hellip;",
             "content_html": "<p>\n<script>\n  // Defina o link para onde quer redirecionar\n  const targetURL = \"https://youtube.com/channel/UCFL5BS5aa9I9yl1enYi2_0g\";\n\n  // Redireciona na mesma aba sem adicionar ao histórico\n  window.location.replace(targetURL);\n</script>\n</p>\n<p>Você será redirecionado em instantes. Se nada acontecer, clique no link abaixo.<br>You will be redirected shortly. If nothing happens, click the link below.</p>\n<p>👉 <a id=\"redirectLink\" target=\"_blank\" rel=\"noopener noreferrer\"></a></p>\n<p>\n<script>\n  // Atualiza o href e texto do link de fallback\n  const linkElement = document.getElementById(\"redirectLink\");\n  linkElement.href = targetURL;\n  linkElement.textContent = targetURL;\n</script>\n</p>",
-            "image": "https://superskypper.com/media/posts/5/Logo-6.0-Mundo-Skypper.jpg",
+            "image": "https://superskypper.com/media/posts/5/251205-0926-Logo-Universo-Skypper-8.0.jpg",
             "author": {
                 "name": "Skypper"
             },
@@ -40,7 +40,7 @@
                    "YouTube"
             ],
             "date_published": "2025-01-23T03:00:00-03:00",
-            "date_modified": "2025-11-18T17:34:50-03:00"
+            "date_modified": "2025-12-09T22:16:30-03:00"
         },
         {
             "id": "https://superskypper.com/terra-do-skypper/",
@@ -48,7 +48,7 @@
             "title": "Terra do Skypper (Gameplays)",
             "summary": "Você será redirecionado em instantes. Se nada acontecer, clique no&hellip;",
             "content_html": "<p>\n<script>\n  // Defina o link para onde quer redirecionar\n  const targetURL = \"https://youtube.com/channel/UCc9OqAJO8_jnavbFL2Jk6tA\";\n\n  // Redireciona na mesma aba sem adicionar ao histórico\n  window.location.replace(targetURL);\n</script>\n</p>\n<p>Você será redirecionado em instantes. Se nada acontecer, clique no link abaixo.<br>You will be redirected shortly. If nothing happens, click the link below.</p>\n<p>👉 <a id=\"redirectLink\" target=\"_blank\" rel=\"noopener noreferrer\"></a></p>\n<p>\n<script>\n  // Atualiza o href e texto do link de fallback\n  const linkElement = document.getElementById(\"redirectLink\");\n  linkElement.href = targetURL;\n  linkElement.textContent = targetURL;\n</script>\n</p>",
-            "image": "https://superskypper.com/media/posts/6/Logo-6.0-Terra-do-Skypper.jpg",
+            "image": "https://superskypper.com/media/posts/6/251205-0948-Logo-Terra-do-Skypper-7.0.jpg",
             "author": {
                 "name": "Skypper"
             },
@@ -56,7 +56,7 @@
                    "YouTube"
             ],
             "date_published": "2025-01-23T02:00:00-03:00",
-            "date_modified": "2025-11-18T17:35:06-03:00"
+            "date_modified": "2025-12-09T22:16:44-03:00"
         }
     ]
 }
